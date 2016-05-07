@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlist.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\customlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\googletranslate.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\googletranslate.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dbmanager.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\dbmanager.xml"
+    },
+    {
+        "merged": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
+        "source": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\layout\\content.xml"
+    }
+]

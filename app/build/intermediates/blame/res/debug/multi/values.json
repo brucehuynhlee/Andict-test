@@ -1,0 +1,452 @@
+[
+    {
+        "outputFile": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 39,
+                    "endColumn": 8,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 0,
+                        "startOffset": 1329,
+                        "endLine": 92,
+                        "endColumn": 8,
+                        "endOffset": 2131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endLine": 77,
+                    "endColumn": 8,
+                    "endOffset": 1866
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 323,
+                        "endLine": 53,
+                        "endColumn": 8,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 1871,
+                    "endLine": 83,
+                    "endColumn": 15,
+                    "endOffset": 2020
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 7,
+                        "endColumn": 15,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2025,
+                    "endLine": 89,
+                    "endColumn": 15,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 202,
+                        "endLine": 14,
+                        "endColumn": 15,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2149,
+                    "endColumn": 43,
+                    "endOffset": 2188
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2193,
+                    "endColumn": 43,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 138,
+                        "endColumn": 39,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 53,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 178,
+                        "endColumn": 49,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2291,
+                    "endColumn": 47,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1058,
+                        "endColumn": 43,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 108,
+                    "endOffset": 2443
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 708,
+                        "endColumn": 104,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2448,
+                    "endColumn": 64,
+                    "endOffset": 2508
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 284,
+                        "endColumn": 60,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2513,
+                    "endColumn": 47,
+                    "endOffset": 2556
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 438,
+                        "endColumn": 43,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2561,
+                    "endColumn": 48,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 482,
+                        "endColumn": 44,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endColumn": 44,
+                    "endOffset": 2650
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 667,
+                        "endColumn": 40,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2655,
+                    "endColumn": 49,
+                    "endOffset": 2700
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 573,
+                        "endColumn": 45,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2705,
+                    "endColumn": 49,
+                    "endOffset": 2750
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 527,
+                        "endColumn": 45,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 2755,
+                    "endColumn": 51,
+                    "endOffset": 2802
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 619,
+                        "endColumn": 47,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 2807,
+                    "endColumn": 96,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 345,
+                        "endColumn": 92,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 40,
+                    "endOffset": 2940
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1021,
+                        "endColumn": 36,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 2945,
+                    "endColumn": 93,
+                    "endOffset": 3034
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 813,
+                        "endColumn": 89,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3039,
+                    "endColumn": 67,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 957,
+                        "endColumn": 63,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endColumn": 57,
+                    "endOffset": 3160
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 903,
+                        "endColumn": 53,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3165,
+                    "endColumn": 29,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 37,
+                        "endOffset": 88
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3195,
+                    "endColumn": 59,
+                    "endOffset": 3250
+                },
+                "from": {
+                    "file": "C:\\Users\\huynhpro\\Desktop\\Andict1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 228,
+                        "endColumn": 55,
+                        "endOffset": 283
+                    }
+                }
+            }
+        ]
+    }
+]
